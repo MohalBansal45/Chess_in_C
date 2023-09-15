@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SrcChess2": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
